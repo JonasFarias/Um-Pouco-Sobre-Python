@@ -46,6 +46,18 @@ A biblioteca padrão do Python vem com vínculos POSIX e suporte para todas as f
 
 GUIs
 
+A simplicidade e o rápido retorno do Python também o tornam bom para programação de GUI(Interface gráfica com o usuário).
+O python vem com uma interface orientada a objetos padrão para a API de GUI Tk, chamada Tkinter, que permite aos programas em Python implementarem GUIs portáveis com aparência e comportamento nativos. As GUIs Python/Tkinter são executadas sem alterações  no MS Windows, X Windows(no Unix e no Linux) e em Macs, Um pacote de extesões gratuito.
+
+SCRIPTS DE INTERNET
+
+O Python vem com módulos para Internet padrão que permitem aos programas executar uma grande variedade de tarefas em rede, tanto no modo cliente como servidor. Os scripts podem comunicar-se por meio de sockets: extrair informações de formulários enviados para um script CGI no lado do servidor: transferir arquivos por meio de FTP: processar arquivos XML: enviar, receber e analisar email: niscar páginas da Web por meio de URLs: analisar o código HTML e XML das páginas buscadas da Web: comunicar-se por meio de XML-RPC, SOAP e telnet: e muito mais. As bibliotecas Pythjon tornam essas tarefas notavelmente simples.
+
+
+COMPOSIÇÃO RÁPIDA DE PROTÓTIPOS
+
+Para os programs em Python, os componentes escritos em Python e C parecem iguais, por isso, é possível fazer o protótipo de sistemas inicialmente em Python e, então, mover componentes para uma linguagem compilada, como C ou C++, para distribuição. Ao contrário de algumas ferramentas de produção de protótipos, o Python não exige uma reescrita completa.
+
 
 					PRIMEIROS PASSOS
 
