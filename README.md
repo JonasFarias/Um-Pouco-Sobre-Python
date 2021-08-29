@@ -62,7 +62,76 @@ Para os programs em Python, os componentes escritos em Python e C parecem iguais
 					PRIMEIROS PASSOS
 
 CRIANDO HAMBIENTE DE TRABALHO
+
+WINDOWS
+CONSTRUINDO O AMBIENTE DE TRABALHO
+Para começarmos a trabalhar e certificarmos que não teremos nenhum erro vamos se certificar que não tenha nenhuma versão do Python instalada.
+Então a primeira coisa que iremos fazer é desistalar qualquer versão do python que esteja instalado em nosso computador.
+
+Vamos em iniciar, digitamos painel de controle
+
+
+CERTIFIQUE-SE DE QUE NÃO TENHA NENHUMA VERSÃO DO PYTHON instalada, até porque a melhor forma de gerenciar as versões do python é com a biblioteca anaconda.
+
+
 INSTALANDO ANACONDA
+
+Vamos abrir o navegador
+vamos pesquisar anaconda no google
+vamos abrir o site anaconda = https://www.anaconda.com/
+vamos efetuar o download da biblioteca conda = https://www.anaconda.com/products/individual/download-success-2
+
+feito isso vamos instalar a biblioteca
+após instalado podemos ir agora no prompt de comando e ver se o python esta intalado
+
+agora criaremos dois ambientes virtuais, para podermos gerenciar as duas versões do python
+a 2.7 e a 3.0 endiante 
+
+ainda no terminal vamos digitar
+
+conda create --name python3 python=3.8
+
+após a criação do ambiente virtual, vamos verificar se o mesmo foi criado com sucesso
+
+conda env list
+
+aqui vemos que foi criado o primeiro ambiente virtual e então teremos o ambiente python3 e o ambiente root ou base como preferir.
+aqui como podemos ver estamos no ambiente base(root) o asteristico nos indica em qual ambiente estamos trabalhando atualmente
+
+para alternamos de ambiente temos que digitar
+
+activate (nome do ambiente virtual)
+ex: 
+activate python3
+
+Para sairmos do ambiente virtual devemos digitar
+deactivate (nome do ambiente virtual)
+ou apenas deactivate
+
+
+agora vamos criar um segundo ambiente virtual
+
+vamos digitar conta create --name python2 python=2.7
+
+agora vamos ter certeza que o abiente foi criado
+pra isso vamos digitar
+conda env list
+
+como podemos ver, agora temos 3 ambientes virtuais
+
+base = ambiente root
+python2 = ambiente com o python 2.7
+python3 = ambiente com o python 3.0 em diante
+
+INSTALAÇÃO DA BIBLIOTECA KIVY NO AMBIENTE WINDOWS
+
+
+
+
+
+
+
+
 INSTALANDO PYCHARM
 CRIANDO PROJETO
 
