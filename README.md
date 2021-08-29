@@ -1,9 +1,6 @@
-# Um-Pouco-Sobre-Python
-um pouco sobre a linguagem Python
-
-
 					 CURSO DE PYTHON
 
+"Na maneira Python de pensar, explícito é melhor do que implícito e simples é melhor do que complexo."
 
 O QUE É PYTHON
 
@@ -13,6 +10,8 @@ Mas antes de mais nada, vou apresentar algumas das razões da popularidade do Py
 PRA QUE SERVE PYTHON
 ONDE É UTILIZADO PYTHON
 	PORQUE AS PESSOAS USAM PYTHON
+Como hoje existem muitas linguagens de programação essa normalmente é a primeira pergunta dos novatos. Dadas as ventenas de milhares de usuários de Python hoje existentes, na verdade não há como responder essa pergunta com total precisão. 
+A escolha das ferramentas de desenvolvimento é às vezes baseada em limitações específicas ou na preferência pessoal. (" Aprendendo Python by.... pegar o nome do cara)
 
 		"Qualidade de software"
 	Python da legibilidade coerência e qualidade do software em geral.
@@ -31,9 +30,22 @@ As bibliotecas suportam diversas tarefas de programação em nível de aplicativ
 Atualmente, o código Python pode chamar bibiotecas C e C++, pode ser chamado a partir de programas em C e C++, pode ser integrado com componentes Java, pode ser comunicar por meio de .COM e .NET e pode interagir pela rede, com interfaces como SOAP e XML-RPC.
 
 
-===============================PYTHON É UMA LINGUAGEM DE SRIPT?============================
-	n
-Na verdade, as pessoas frequentemente usam o termo "script", em vez de "programa", para descrever um arquivo de código Python
+O QUE EU POSSO FAZER COM PYTHON?
+
+	Além de ser uma linguagem de programação bem projetada, o python também é útil para executar tarefas do mundo real - os tipos de coisas que os desenvolvedires fazem todo dia. Ele é coumente usado em diversos domínios, como ferramenta para escrever outros componentes e implementar programas independentes. Na verdade, como linguagem de propósito geral, as funções do Python são praticamente ilimitadas.
+	Entretanto, as funcções mais comunds do Puthon parecem recair em algumas caregorias mais amplas. As próximas seções descrevem algumas das applicações mais comuns do Python, assim como as ferramentas usadas em cada domínio. Não podemos descrever todas as ferramentas mencionadas aqui; se você estiver interessado em algum desses asssuntos , veja o Python on-line ou outros recursos, para obter mais detalhes.
+
+
+PROGRAMAÇÃO DE SISTEMAS
+
+
+As interfaces incorporadas do Python para serviçoes de sistemas operacional o tornam ideal para escrever ferramentas e utilitários de administração de sistemas portáveis e fáceis de manter(às vezes chamadas de ferramentas de shel). Os programas em Python podem pesquisar arquivos e árvores de diretório, camar outros programas, realizar processamento paralelo com processos e segmentos etc.
+
+A biblioteca padrão do Python vem com vínculos POSIX e suporte para todas as ferrametnas de sistemas operacional comuns: variáveis de ambiente, arquivos, sockets, pipes, processos, múltiplos sefmentos, expressôes regulares para correspondência de padrão de texto, argumentos de linha de comandos, interfaces de fluxo padão, execução de comando de shell, expansão de nome de arquivo e muito mias. Além disso, a maior parte das interfaces de sitema do Python é projetada para ser portável: por exemplo, um script que copia a´rvores de diretório normalmente é exeutado sem alterção em todas as principais plataformas Python.
+
+
+GUIs
+
 
 					PRIMEIROS PASSOS
 
