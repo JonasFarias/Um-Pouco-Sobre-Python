@@ -65,20 +65,23 @@ Para os programs em Python, os componentes escritos em Python e C parecem iguais
 
 # PRIMEIROS PASSOS
 
-CRIANDO HAMBIENTE DE TRABALHO
+## CRIANDO HAMBIENTE DE TRABALHO
 
-WINDOWS
-CONSTRUINDO O AMBIENTE DE TRABALHO
-Para começarmos a trabalhar e certificarmos que não teremos nenhum erro vamos se certificar que não tenha nenhuma versão do Python instalada.
+### WINDOWS
+
+Para começarmos a trabalhar e termos certeza que não teremos nenhum erro, vamos se certificar que não tenha nenhuma versão do Python instalada.
 Então a primeira coisa que iremos fazer é desistalar qualquer versão do python que esteja instalado em nosso computador.
+
+*CERTIFIQUE-SE DE QUE NÃO TENHA NENHUMA VERSÃO DO PYTHON* instalada, até porque a melhor forma de gerenciar as versões do python é com a biblioteca **Anaconda.**
+
 
 Vamos em iniciar, digitamos painel de controle
 
 
-CERTIFIQUE-SE DE QUE NÃO TENHA NENHUMA VERSÃO DO PYTHON instalada, até porque a melhor forma de gerenciar as versões do python é com a biblioteca anaconda.
 
 
-INSTALANDO ANACONDA
+
+### INSTALANDO ANACONDA
 
 Vamos abrir o navegador
 vamos pesquisar anaconda no google
