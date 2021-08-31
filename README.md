@@ -71,8 +71,7 @@ Para os programs em Python, os componentes escritos em Python e C parecem iguais
 
 Para começarmos a trabalhar e termos certeza que não teremos nenhum erro, vamos se certificar que não tenha nenhuma versão do Python instalada.
 Então a primeira coisa que iremos fazer é desistalar qualquer versão do python que esteja instalado em nosso computador.
-
-*CERTIFIQUE-SE DE QUE NÃO TENHA NENHUMA VERSÃO DO PYTHON* instalada, até porque a melhor forma de gerenciar as versões do python é com a biblioteca **Anaconda.**
+até porque a melhor forma de gerenciar as versões do python é com a biblioteca **Anaconda.**
 
 
 Vamos em iniciar, digitamos painel de controle
@@ -85,8 +84,14 @@ Vamos em iniciar, digitamos painel de controle
 
 Vamos abrir o navegador
 vamos pesquisar anaconda no google
-vamos abrir o site anaconda = https://www.anaconda.com/
-vamos efetuar o download da biblioteca conda = https://www.anaconda.com/products/individual/download-success-2
+
+vamos abrir o site 
+
+[anaconda](https://www.anaconda.com/)
+
+vamos efetuar o download da biblioteca 
+
+[conda](https://www.anaconda.com/products/individual/download-success-2)
 
 feito isso vamos instalar a biblioteca
 após instalado podemos ir agora no prompt de comando e ver se o python esta intalado
