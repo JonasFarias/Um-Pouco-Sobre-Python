@@ -123,7 +123,7 @@ ou apenas deactivate
 
 agora vamos criar um segundo ambiente virtual
 
-vamos digitar conta create --name python2 python=2.7
+vamos digitar conda create --name python2 python=2.7
 
 agora vamos ter certeza que o abiente foi criado
 pra isso vamos digitar
