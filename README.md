@@ -191,11 +191,40 @@ INSTALANDO PYCHARM
 CRIANDO PROJETO
 
 
-					PRIMEIROS COMANDDOS
+					
 
+
+DECLARAÇÃO DE VARIÁVEIS
+
+As variáveis em Python não precisam necessariamente serem declaradas no início do código, como acontece em C++, e também não é necessário declarar o tipo.
+
+Nomeando as variáveis:
+
+
+O primeiro caractere tem que ser um literal ou um underline 
+Deve ser um nome continuo, sem espaços em branco.
+Não deve-se utilizar acentuação gráfica, ç, caracteres especiais, exceto o underline.
+
+
+
+Exemplo:
+
+nome, _nome, nome2, nome_pessoa
+
+
+
+TIPOS DE DADOS EM VARIÁVEIS
+
+
+int = Números inteiros 1,2,3…
+float = Números inteiros e fracionários podem ser usados 1,2,3 ou 1,5,9,8…
+complex =  Números complexos x = 8 + 9b
+bool = Boleano verdadeiro ou falso
+string =  Caracteres a,b,c…
 VARIAVÉIS
 PRINTS
 INPUT
+
 
 					NOTE
 
@@ -224,3 +253,6 @@ O If serve para verificar uma condição e o elif serve para verificar outra con
 if = se
 elif = se não
 else = não
+
+
+PRIMEIROS COMANDDOS
