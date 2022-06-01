@@ -7,6 +7,13 @@
 Se você está lendo isso, talvez já tenha uma idéia do que seja PYTHON e porque é importante conhecer essa ferramenta.
 Mas antes de mais nada, vou apresentar algumas das razões da popularidade do Python.
 
+
+POR QUE PYTHON:
+A linguagem de programação Python é muito interessante.
+Embora simples, é também uma linguagem poderosa, podendo ser usada para administrar sistemas
+e desenvolver grandes projetos. É uma linguagem clara e objetiva, pois vai direto
+ao ponto, sem rodeios.
+
 PRA QUE SERVE PYTHON
 
 ONDE É UTILIZADO PYTHON
