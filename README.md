@@ -247,6 +247,20 @@ A função print()
 
 
 
+Valores booleanos
+Enquanto os tipos de dados inteiro, de ponto flutuante e string têm um
+número ilimitado de valores possíveis, o tipo de dado booleano (Boolean) tem
+apenas dois valores: True e False.
+
+
+
+Operadores booleanos
+Os três operadores booleanos (and, or e not) são usados para comparar valores
+booleanos. Assim como os operadores de comparação, eles avaliam essas
+expressões reduzindo-as a um valor booleano. Vamos explorar esses
+operadores em detalhes, começando pelo operador and.
+
+Operadores booleanos binários   
 
 
 
@@ -263,3 +277,7 @@ else = não
 
 
 PRIMEIROS COMANDDOS
+
+
+
+
