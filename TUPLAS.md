@@ -1,15 +1,16 @@
 # TUPLAS
 
-Variáveis compostas(TUPLAS)
+Variáveis compostas **(TUPLAS)**
 
 Tuplas tem uma diferença das listas em Python,  são imutáveis. 
 Tuplas são ideais para representar listas de valores constantes e também para realizar opções de empacotamento e desempacotamento de valores.
 Primeiramente, vejamos como criar uma tupla.
 
+```
 tupla = (“a”, “b”, “c”)
 tupla
 (‘a’, ‘b’, ‘c’)
-
+```
 Tuplas suportam a maior parte das operações de lista, como fatiamento e indexação.
 mas tuplas não pode ter seus elementos alterados.
 
