@@ -1,4 +1,4 @@
-TUPLAS
+# TUPLAS
 
 Variáveis compostas(TUPLAS)
 
@@ -58,7 +58,7 @@ tupla
 Esse tipo de operação é chamado de empacotamento.
 Tuplas podem ser utilizadas para desempacotar valores.
 
-Exemplo
+### Exemplo
 
 a, b = 10, 20
 a
@@ -101,5 +101,21 @@ tupla[1]
 tupla[1].append(‘e’)
 tupla
 (‘a’, [‘b’, ‘c’, ‘d’, ‘e’])
+
+
+# LISTAS
+
+
+
+Listas permitem o armazenamento de vários valores,acessados por um índice. 
+Uma lista pode conter zero ou mais elementos de um mesmo tipo ou de tipos diversos, podendo inclusive conter outras listas. 
+
+A palavra casa tem 4 letras, é comum imaginarmos que a contagem seria do 1 ao 4, porém os índices em Python começam a contagem no 0 Ex:
+
+
+C  A  S  A
+[0,1, 2,  3]
+
+Listas são bem flexíveis, podem crescer e diminuir com bastante facilidade! 
 
 
