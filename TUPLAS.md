@@ -50,3 +50,56 @@ print(‘Comi pra caramba!’)
 
 Python permite criarmos tuplas separados por virgula, independente de usarmos parênteses:
 
+tupla =100, 200, 300
+tupla
+(100, 200, 300)
+
+100, 200, 300 foram convertidos em tupla com três elementos.
+Esse tipo de operação é chamado de empacotamento.
+Tuplas podem ser utilizadas para desempacotar valores.
+
+Exemplo
+
+a, b = 10, 20
+a
+10
+b
+20
+
+
+Tuplas também podem ser criadas a partir de uma lista com a função tuple:
+Ex:
+l = [1, 2, 3]
+t = tuple(l)
+t
+(1, 2, 3)
+
+Não podemos alterar tuplas após a sua criação, mas podemos concatená-las
+criando novas tuplas:
+
+tupla1 = 1, 2, 3
+tupla2 = 1, 2, 3
+tupla1 + tupla2
+tupla3 = 1, 2, 3, 1, 2, 3
+
+
+Se uma tupla contiver uma lista ou outro objeto que pode ser alterado,
+este continuará a funcionar normalmente. Veja o exemplo de uma tupla
+que contém uma lista:
+
+tupla = (‘a’, [‘b’, ‘c’, ‘d’])
+tupla 
+(‘a’, [‘b’, ‘c’, ‘d’])
+
+
+Nada mudou na tupla em si, mas na lista que é seu segundo elemento.
+A tupla não foi alterada, mas a lista que ela continha, sim.
+len(tupla)
+2
+tupla[1]
+[‘b’, ‘c’, ‘d’]
+tupla[1].append(‘e’)
+tupla
+(‘a’, [‘b’, ‘c’, ‘d’, ‘e’])
+
+
