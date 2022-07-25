@@ -30,21 +30,27 @@ Se você está lendo isso, talvez já tenha uma idéia do que seja PYTHON e porq
 Mas antes de mais nada, vou apresentar algumas das razões da popularidade do Python.
 
 
-POR QUE PYTHON:
+### **POR QUE PYTHON:**
+---
 A linguagem de programação Python é muito interessante.
 Embora simples, é também uma linguagem poderosa, podendo ser usada para administrar sistemas
 e desenvolver grandes projetos. É uma linguagem clara e objetiva, pois vai direto
 ao ponto, sem rodeios.
 
-PRA QUE SERVE PYTHON
+### PRA QUE SERVE PYTHON
+Python é uma linguagem muito popular nas áreas da tecnologia relacionadas à análise de dados, pesquisa, desenvolvimento de algoritmos e IA.
+Automatizar tarefas e desenvolver scripts de automação com Python é totalmente possível e rápido graças às suas várias bibliotecas nativas, disponíveis junto com sua instalação
 
-ONDE É UTILIZADO PYTHON
 
-PORQUE AS PESSOAS USAM PYTHON
+### ONDE É UTILIZADO PYTHON
+O python é bastante utilizado em data science, machine learning, desenvolvimento web, desenvolvimento de aplicativos, automação de scripts, fintechs e etc.
 
+### PORQUE AS PESSOAS USAM PYTHON
 Como hoje existem muitas linguagens de programação essa normalmente é a primeira pergunta dos novatos.
 Dadas as ventenas de milhares de usuários de Python hoje existentes, na verdade não há como responder essa pergunta com total precisão. 
 A escolha das ferramentas de desenvolvimento é às vezes baseada em limitações específicas ou na preferência pessoal. (" Aprendendo Python by.... pegar o nome do cara)
+
+
 
 ### "Qualidade de software"
 Python da legibilidade coerência e qualidade do software em geral.
