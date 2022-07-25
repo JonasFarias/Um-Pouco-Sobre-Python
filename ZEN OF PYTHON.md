@@ -205,4 +205,4 @@ def funcao():
     
     fontes
     [*Python Academy*](https://pythonacademy.com.br/zen-of-python)
-    livro curso intensivo de python uma introdução pratica
+    [*Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação*](https://www.amazon.com.br/Curso-Intensivo-Python-introdu%C3%A7%C3%A3o-programa%C3%A7%C3%A3o-ebook/dp/B074ZTLKHB/ref=sr_1_1?keywords=curso+intensivo+de+python&qid=1658759032&sprefix=curso+inte%2Caps%2C215&sr=8-1)
