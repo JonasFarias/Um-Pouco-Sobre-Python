@@ -21,8 +21,8 @@
 
 
 # CURSO DE PYTHON
-
-*"Na maneira Python de pensar, explícito é melhor do que implícito e simples é melhor do que complexo."*
+***Mark Lutz & David Asher***
+>*"Na maneira Python de pensar, explícito é melhor do que implícito e simples é melhor do que complexo."*
 
 ### O QUE É PYTHON?
 
