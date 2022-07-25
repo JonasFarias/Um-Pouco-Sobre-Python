@@ -204,5 +204,5 @@ def funcao():
     
     
     fontes
-    https://pythonacademy.com.br/zen-of-python
+    [*Python Academy*](https://pythonacademy.com.br/zen-of-python)
     livro curso intensivo de python uma introdução pratica
