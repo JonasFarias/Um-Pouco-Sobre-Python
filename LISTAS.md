@@ -92,16 +92,23 @@ web, você vai querer remover esse usuário da lista de usuários ativos.
 Removendo um item usando a instrução `del`
 Se a posição do item que você quer remover de uma lista for conhecida, a
 instrução del poderá ser usada.
-motorcycles = ['honda', 'yamaha', 'suzuki']
-print(motorcycles)
-u del motorcycles[0]
-print(motorcycles)
-O código em u usa del para remover o primeiro item, 'honda', da lista de
+
+```
+doces = ['Chocolate', 'Sorvete', 'Pudim']
+print(doces)
+del doces[0]
+print(doces)
+
+```
+
+O código em u usa del para remover o primeiro item, 'Chocolate', da lista de
 motocicletas:
-['honda', 'yamaha', 'suzuki']
-['yamaha', 'suzuki']
 
+```
+['Chocolate', 'Sorvete', 'Pudim']
+['Sorvete', 'Pudim']
 
+```
 
 
 
