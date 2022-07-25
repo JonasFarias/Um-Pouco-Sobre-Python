@@ -39,3 +39,21 @@ O codigo acima terá a saida:
 Você pode mudar o valor de qualquer item de uma lista, e não apenas o
 primeiro.
 
+# Acrescentando elementos em uma lista
+
+Você pode adicionar  um item na lista utilizando o comando .append
+Exemplo:
+
+```
+# Nossa lista atual de doces
+doces = ['Chocolate', 'Sorvete', 'Pudim']
+print(doces)
+# Aqui estamos adicionando mais um elementeo a nossa lista
+doces.append('brigadeiro')
+print(doces)
+```
+
+Diferente do codigo anterior, em vez de modificarmos um item da lista estamos acrescentando um item a lista
+então nosso novo codigo em vez de substituir o 'Chocolate' por 'Brigadeiro' ele vai acrescentar o 'Brigfadeiro' ao final da nossa lsita.
+
+
