@@ -117,5 +117,5 @@ doces:
 
 fontes
 
-curso em video
-curso intesivo de python uma introdução...
+* curso em video
+* curso intesivo de python uma introdução...
