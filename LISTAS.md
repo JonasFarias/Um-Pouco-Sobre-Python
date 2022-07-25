@@ -19,17 +19,16 @@ print(doces)
 
 Em Python, colchetes ([]) indicam uma lista, e elementos individuais da
 lista são separados por vírgulas.
-Exemplo:
+Exemplo: <br/>
 `doces = []`
 
-Podemos também criar uma lista da seguinte maneira.
+Podemos também criar uma lista da seguinte maneira.<br/>
 `doces = list()`
-
-as duas formas a cima criamos uma lsita totalmente vazia. podemos já criar uma lista com dados dentro dela, da seguinte forma!
+as duas formas a cima criamos uma lsita totalmente vazia. podemos já criar uma lista com dados dentro dela, da seguinte forma!<br/>
 `
 doces = ['Chocolate', 'Sorvete', 'Pudim']
-`
-ou
+`<br/>
+ou<br/>
 `
 doces = list(['Chocolate', 'Sorvete', 'Pudim'])
 `
