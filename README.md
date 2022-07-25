@@ -20,7 +20,7 @@
 
 
 
-# CURSO DE PYTHON
+# UM POUCO SOBRE PYTHON
 ***Mark Lutz & David Asher***
 >*"Na maneira Python de pensar, explícito é melhor do que implícito e simples é melhor do que complexo."*
 
