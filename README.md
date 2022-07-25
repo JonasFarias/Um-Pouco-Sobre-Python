@@ -1,7 +1,19 @@
-# LIVROS PARA APRENDER PYTHON
+# TOP 5 LIVROS PARA APRENDER PYTHON
 
-[ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação ] (Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação)
+1. [*Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação*](https://www.amazon.com.br/Curso-Intensivo-Python-introdu%C3%A7%C3%A3o-programa%C3%A7%C3%A3o-ebook/dp/B074ZTLKHB/ref=sr_1_1?keywords=curso+intensivo+de+python&qid=1658759032&sprefix=curso+inte%2Caps%2C215&sr=8-1)
 
+2. [*Automatize tarefas maçantes com Python: Programação prática para verdadeiros iniciantes*](https://www.amazon.com.br/Automatize-tarefas-ma%C3%A7antes-com-Python-ebook/dp/B075JTQYB7/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=7RJ1KMV7Q25K&keywords=automatize+tarefas+ma%C3%A7antes+com+python&linkCode=sl2&linkId=83ba2681bc2720f21af8b55fbac482f7&qid=1658759543&sprefix=automatize+ta%2Caps%2C291&sr=8-1)
+3. [*Python Fluente: Programação Clara, Concisa e Eficaz*](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=as_li_ss_tl?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Mark+lutz&qid=1598230379&sr=8-7&linkCode=sl1&tag=economiafac08-20&linkId=6f4e2244f496c08d8b5c30cf546b1b8f&language=pt_BR)
+4. [*Pense em Python: Pense Como um Cientista da Computação*](https://www.amazon.com.br/s?k=pense+em+python&language=pt_BR&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=sl2&linkId=1629c69442306416eb76c5f977f7f316&tag=geek033-20&ref=nb_sb_noss_2)
+5. [*Web Scraping com Python: Coletando Mais Dados da web Moderna*](https://www.amazon.com.br/Web-Scraping-Com-Python-Coletando/dp/8575227300/ref=as_li_ss_tl?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=python&qid=1598231536&sr=8-7&linkCode=sl1&tag=economiafac08-20&linkId=3fc7240c143210c77e344d2bcad7c1b3&language=pt_BR)
+
+# TOP 5 CURSOS PARA APRENDER PYTHON
+
+1. [*Curso em Video - Mundo Python*](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
+2. [*Data Science Academy: Curso Python Fundamentos Para Análise de Dados 3.0*](https://www.datascienceacademy.com.br/course/python-fundamentos)
+3. [*USP: Introdução à Ciência da Computação com Python – Parte 1 e Parte 2*](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+4. [*Curso de Python: Apps para Android, iOS, Linx, Win, e Mac*](https://www.udemy.com/share/101qQS3@IPNrrrg7-8a4ars4fU4jWQClvw7N7y7fMGJMx5z2G3TRK-PE3M7ojjmwRzIDuzfi/)
+5. [*SOLYD Python Profissional na Prática*](https://solyd.com.br/treinamentos/python-profissional-na-pratica/)
 
 
 
