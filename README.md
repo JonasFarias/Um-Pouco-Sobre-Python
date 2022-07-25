@@ -1,3 +1,13 @@
+# LIVROS PARA APRENDER PYTHON
+
+[ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação ] (Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação)
+
+
+
+
+
+
+
 # CURSO DE PYTHON
 
 *"Na maneira Python de pensar, explícito é melhor do que implícito e simples é melhor do que complexo."*
