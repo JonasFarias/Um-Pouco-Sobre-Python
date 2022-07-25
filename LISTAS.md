@@ -110,8 +110,19 @@ doces:
 
 ```
 
+Você pode remover um item de qualquer posição em uma lista usando a
+instrução del, se souber qual é o seu índice. Por exemplo, eis o modo de
+remover o segundo item, 'Sorvete', da lista:
+doces = ['Chocolate', 'Sorvete', 'Pudim']
+print(doces)
+del doces[1]
+print(doces)
+O segundo Doce é apagada da lista:
+['Chocolate', Sorvete', 'Pudim']
+['Chocolate', 'Pudim']
 
-
+Nos dois exemplos não podemos mais acessar o valor que foi removido
+da lista após a instrução del ter sido usada.
 
 
 
