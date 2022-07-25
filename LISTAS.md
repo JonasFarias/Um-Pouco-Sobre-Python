@@ -101,8 +101,8 @@ print(doces)
 
 ```
 
-O código em u usa del para remover o primeiro item, 'Chocolate', da lista de
-motocicletas:
+Usamos del para remover o primeiro item, 'Chocolate', da lista de
+doces:
 
 ```
 ['Chocolate', 'Sorvete', 'Pudim']
