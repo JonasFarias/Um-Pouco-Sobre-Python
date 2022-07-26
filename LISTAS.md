@@ -272,6 +272,38 @@ cada item em um laço `for`. O uso de nomes no singular e no plural pode
 ajudar a identificar se a seção de código atua em um único elemento da
 lista ou em toda a lista.
 
+### Criando listas numéricas
+Em visualizações de dados, quase sempre você trabalhará com conjuntos de números, como
+temperaturas, distâncias, tamanhos de população ou valores de latitudes
+e longitudes, entre outros tipos de conjuntos numéricos.
+As listas são ideais para armazenar conjuntos de números, e Python
+oferece várias ferramentas para ajudar você a trabalhar com listas de
+números de forma eficiente. Depois que souber usar efetivamente essas
+ferramentas, seu código funcionará bem, mesmo quando suas listas
+tiverem milhões de itens.
+
+#### Estatísticassimplescomumalista de números
+Algumas funções Python são específicas para listas de números. Por
+exemplo, podemos encontrar facilmente o valor mínimo, o valor
+máximo e a soma de uma lista de números: 
+
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+
+print(min(numeros))
+print(max(numeros))
+print(sum(numeros))
+
+0
+9
+45
+
+NOTA Os exemplos desta seção utilizam listas pequenas de números para
+que caibam facilmente na página. Esses exemplos também funcionarão
+bem se sua lista contiver um milhão de números ou mais.
+
+
+
+
 fontes
 
 * curso em video
