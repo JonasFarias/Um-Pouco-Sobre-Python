@@ -200,9 +200,77 @@ valor que está sendo removido de uma lista.
 O método `remove()` apaga apenas a primeira ocorrência do valor que
 você especificar. 
 
+### Percorrendo uma lista inteira com um laço
+Com frequência, você vai querer percorrer todas as entradas de uma
+lista, executando a mesma tarefa em cada item. Por exemplo, em uma lista de números, talvez você queira executar a
+mesma operação estatística em todos os elementos. 
+Quando quiser executar a mesma ação em todos os itens de uma lista,
+você pode usar o laço `for` de Python .<br />
+Vamos supor que temos uma lista de nomes de times e queremos
+exibir todos os nomes da lista. <br />
+
+Vamos usar um laço `for` para exibir cada um dos nomes de uma lista
+de times: <br />
 
 
+```
+# Começamos definindo uma lista de times
+times = ['corinthians', 'palmeiras', 'santos']
+# Definimos um laço para extrair o nome da lista times e amarzenar na variavel time
+for time in times: 
+# pedimos para exibir o nome que foi armazenado na variavel time
+  print(time) 
 
+```
+ O interpretador então repete as linhas uma vez para cada nome da lista. 
+Ler esse código como <br />
+“para todo time na lista de times, exiba o nome do time” pode ajudar. 
+A saída é uma exibição simples de cada nome da lista: 
+```
+corinthians
+palmeiras
+santos
+```
+
+### Observando os laços com mais detalhes
+
+O conceito de laços é importante porque é uma das maneiras mais
+comuns para um computador automatizar tarefas repetitivas. 
+Por
+exemplo, em um laço simples como o que usamos em times.py,
+Python inicialmente lê a primeira linha do laço: 
+`for time in times:` Essa linha diz ao Python para extrair o primeiro valor da lista
+times e armazená-lo na variável time. O primeiro valor é `'corinthians'`.
+O interpretador então lê a próxima linha: `print(time)` O Python exibe o
+valor atual de time, que ainda é 'corinthians'. 
+Como a lista contém mais valores, o interpretador retorna à primeira linha do laço: 
+`for time in times : ` Python recupera o próximo nome da lista, que é 'palmeiras', e
+armazena esse valor em time. Então ele executa a linha:
+`print(time)` Python exibe o valor atual de time, que agora é
+'palmeiras', novamente. O interpretador repete todo o laço mais uma vez
+com o último valor da lista, que é 'santos'. Como não há mais valores
+na lista, Python passa para a próxima linha do programa. Nesse caso,
+não há mais nada depois do laço `for`, portanto o programa simplesmente
+termina.
+Quando usar laços pela primeira vez, tenha em mente que o conjunto
+de passos será repetido, uma vez para cada item da lista, não importa
+quantos itens haja na lista. Se você tiver um milhão de itens em sua lista,
+Python repetirá esses passos um milhão de vezes – e geralmente o fará
+bem rápido.
+Tenha em mente também que quando escrever seus próprios laços `for`,
+você poderá escolher qualquer nome que quiser para a variável
+temporária que armazena cada valor da lista. No entanto, é conveniente
+escolher um nome significativo, que represente um único item da lista.
+
+Por exemplo, eis uma boa maneira de iniciar um laço `for` para uma lista
+de gatos, uma lista de cachorros e uma lista genérica de itens: 
+`for gato in gatos:` <br />
+`for cachorro in cachorros:` <br />
+`for item in lista_de_itens:`<br />
+Essas convenções de nomenclatura podem ajudar você a acompanhar a ação executada em
+cada item em um laço `for`. O uso de nomes no singular e no plural pode
+ajudar a identificar se a seção de código atua em um único elemento da
+lista ou em toda a lista.
 
 fontes
 
