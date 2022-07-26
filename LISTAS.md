@@ -138,6 +138,70 @@ O segundo Doce é apagada da lista:
 Nos dois exemplos não podemos mais acessar o valor que foi removido
 da lista após a instrução del ter sido usada.
 
+#### Removendo um item com o método pop()
+
+Em algum momento você vai querer usar o valor de um item depois de removê-lo
+de uma lista. Em uma aplicação web, você poderia remover
+um usuário de uma lista de membros ativos e então adicioná-lo a uma
+lista de membros inativos.
+O método `pop()` remove o último item de uma lista, mas permite que
+você trabalhe com esse item depois da remoção. 
+Vamos fazer um pop de um doce da lista de docess: 
+```
+
+# Criamos nossa lista de doces
+doces = ['Chocolate', 'Sorvete', 'Pudim']
+# Exibimos nossa lista de doces
+print(doces)
+# criamos uma variavel, para receber os doces "apagados"
+doces_removidos = doces.pop()
+# Mostramos a lista de doces
+print(doces) 
+# Aqui exibimos os doces "apagados"
+print(doces_removidos) 
+```
+
+A saída mostra que o valor 'Pudim' foi removido do final da lista e
+agora está armazenado na variável doces_removidos: 
+```
+['Chocolate', 'Sorvete','Pudim']
+['Chocolate', 'Sorvete']
+Pudim
+```
+
+Lembre-se de que, sempre que usar `pop()`, o item com o qual você
+trabalhar não estará mais armazenado na lista.
+Se você não tiver certeza se deve usar a instrução `del` ou o método
+`pop()`, eis um modo fácil de decidir: quando quiser apagar um item de
+uma lista e esse item não vai ser usado de modo algum, utilize a
+instrução `del`; se quiser usar um item à medida que removê-lo, utilize o
+método `pop()`.
+
+### Removendo um item deacordo com o valor
+Às vezes, você não saberá o indice do item que quer apagar, apenas o valor do item que deseja remover, o método
+`remove()` poderá ser usado.
+Por exemplo, vamos supor que queremos remover o valor 'Brigadeiro' da
+lista de doces.
+```doces = ['Chocolate', 'Sorvete', 'Pudim', 'Brigadeiro']
+print(doces)
+doces.remove('Brigadeiro')
+print(doces)
+```
+O código em diz para o Python para descobrir em que lugar 'Brigadeiro' aparece na lista e remover esse
+elemento: 
+```
+['Chocolate', 'Sorvete', 'Pudim', 'Brigadeiro']
+['Chocolate', 'Sorvete', 'Pudim']
+```
+Também podemos usar o método `remove()` para trabalhar com um
+valor que está sendo removido de uma lista. 
+
+### NOTA 
+O método `remove()` apaga apenas a primeira ocorrência do valor que
+você especificar. 
+
+
+
 
 
 fontes
