@@ -287,22 +287,24 @@ Algumas funções Python são específicas para listas de números. Por
 exemplo, podemos encontrar facilmente o valor mínimo, o valor
 máximo e a soma de uma lista de números: 
 
+```
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-
 print(min(numeros))
 print(max(numeros))
 print(sum(numeros))
-
+```
+```
 0
 9
 45
+```
 
 NOTA Os exemplos desta seção utilizam listas pequenas de números para
 que caibam facilmente na página. Esses exemplos também funcionarão
 bem se sua lista contiver um milhão de números ou mais.
 
 
-### Fatiando umalista
+### Fatiando uma lista
 Para pegarmos parte de uma lista devemos , especificar o índice do primeiro e do último
 elemento com os quais queremos trabalhar. 
 Como ocorre na função range(), Python para em um item antes do segundo índice que você
