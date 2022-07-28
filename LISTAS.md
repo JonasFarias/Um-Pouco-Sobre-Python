@@ -380,12 +380,55 @@ herois_do_meu_imrao = meus_herois[:]
 print(f'Meus Herois favoritos são: {meus_herois}')
 print(f'Os Heoris do meu irmão: {herois_do_meu_imrao}')
 ```
+
+Quando exibimos cada lista, vemos que as duas contêm os mesmos Heróis:
+
 ```
 Meus Herois favoritos são: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
 Os Heoris do meu irmão: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
 ```
+Temos duas listas separadas, acrescentaremos um Herói em cada lista e mostraremos que cada lista mantém os hérois favoritas de cada pessoa:
+
+```
+# Definimos a minha lista de hérois
+meus_herois = ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+# Fazemos uma copia para lista do meu irmão
+herois_do_meu_imrao = meus_herois[:]
+# Exibo minha lista de herois
+print(f'Meus Herois favoritos são: {meus_herois}')
+# Exibe a lista dos herois favoritos do meu irmão
+print(f'Os Heoris do meu irmão: {herois_do_meu_imrao}')
+
+# adicionando mais um heroi  a minha lista
+meus_herois.append('Vampira')
+# adicionando mais um heroi na lista do meu irmão
+herois_do_meu_imrao.append('Mulher Hulk')
+print(meus_herois)
+print(herois_do_meu_imrao)
+```
+a saida ficaria assim:
+
+```
+Meus Herois favoritos são: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+Os Heoris do meu irmão: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit', 'Vampira']
+['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit', 'Mulher Hulk']
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 fontes
 
 * curso em video
 * curso intesivo de python uma introdução...
-* Introdução à programação com Python algoritmos e lógica de programação para iniciantes (Nilo Ney Coutinho Menezes) (z-lib.org)
+* Introdução à programação com Python algoritmos e lógica de programação para iniciantes
