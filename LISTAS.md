@@ -341,9 +341,21 @@ qualquer fatia a partir do final de uma lista.
 cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
 print(cervejas[-3:]) 
 ```
-Esse código exibe os nomes dos três últimos jogadores
-e continuaria a funcionar à medida que a lista de jogadores mudar de
+Esse código exibe os nomes das ultimas três cervejas e continuaria a funcionar à medida que a lista de jogadores mudar de
 tamanho.
+
+### Percorrendo uma fatia com um laço
+Você pode usar um laço em um fatiamento com o `for`.
+vamos percorreremos as três primeiras cervejas e exibiremos seus nomes como
+parte de uma lista simples:
+```
+cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
+print('As cerverjas mais geladas no momento!')
+for cerveja in cervejas[:3]:
+    print(cerveja.title())
+```
+Em vez de percorrer a lista inteira de cervejas o python percorre
+somente os três primeiros nomes:
 
 fontes
 
