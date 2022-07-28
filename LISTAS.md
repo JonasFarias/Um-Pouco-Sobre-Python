@@ -305,9 +305,9 @@ bem se sua lista contiver um milhão de números ou mais.
 
 
 ### Fatiando uma lista
-Para pegarmos parte de uma lista devemos , especificar o índice do primeiro e do último
+Para pegarmos parte de uma lista devemos, especificar o índice do primeiro e do último
 elemento com os quais queremos trabalhar. 
-Como ocorre na função range(), Python para em um item antes do segundo índice que você
+Como ocorre na função `range()`, Python para em um item antes do segundo índice que você
 especifica. Para exibir os três primeiros elementos de uma lista, solicite
 os índices de 0 a 3; os elementos 0, 1 e 2 serão devolvidos.
 O exemplo a seguir envolve uma lista de cervejas de um bar:
