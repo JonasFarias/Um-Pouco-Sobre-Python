@@ -1,7 +1,4 @@
 
 
-teste = 'abcd'
-
-teste = teste.replace('a', 'm')
-
-print(teste)
+cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
+print(cervejas[-3:])

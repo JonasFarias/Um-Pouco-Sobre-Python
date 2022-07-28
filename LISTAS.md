@@ -313,7 +313,7 @@ os índices de 0 a 3; os elementos 0, 1 e 2 serão devolvidos.
 O exemplo a seguir envolve uma lista de cervejas de um bar:
 
 ```
-cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaiava']
+cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
 
 print(cervejas[0:3]) 
 ```
@@ -322,6 +322,28 @@ inclui apenas as três primeiras cervejas. A saída mantém a estrutura de
 lista e inclui as três primeiras cervejas: ```['skol', 'bhrama', 'imperio',]```
 
 
+Uma fatia que inclua o final de uma lista. Por exemplo, se quiser todos os itens do terceiro até
+o último item, podemos começar com o índice 2 e omitir o segundo
+índice: 
+```
+cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
+print(cervejas[2:]) 
+```
+Python devolve todos os itens, do terceiro item até o
+final da lista: `['imperio', 'heineken', 'itaipava']`
+Essa sintaxe permite apresentar todos os elementos a partir de
+qualquer ponto de sua lista até o final, independentemente do tamanho
+da lista. 
+um índice negativo devolve um elemento a
+uma determinada distância do final de uma lista; assim, podemos exibir
+qualquer fatia a partir do final de uma lista. 
+```
+cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
+print(cervejas[-3:]) 
+```
+Esse código exibe os nomes dos três últimos jogadores
+e continuaria a funcionar à medida que a lista de jogadores mudar de
+tamanho.
 
 fontes
 
