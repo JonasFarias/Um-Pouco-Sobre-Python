@@ -354,10 +354,38 @@ print('As cerverjas mais geladas no momento!')
 for cerveja in cervejas[:3]:
     print(cerveja.title())
 ```
-Em vez de percorrer a lista inteira de cervejas o python percorre
-somente os três primeiros nomes:
+Em vez de percorrer a lista inteira de cervejas o python percorre somente os três primeiros nomes:
 
+```
+As cerverjas mais geladas no momento!
+Skol
+Bhrama
+Imperio
+```
+
+
+### Copiando uma lista
+Vamos copiar uma lista e analisar uma situação em que copiar uma lista é útil.
+Para copiar uma lista, temos que usar `[:]`. Isso diz a Python
+para criar uma lista que começa no primeiro item e termina no último,
+gerando uma cópia da lista toda.
+Por exemplo, suponha que temos uma lista de nossos Heróis
+prediletos e queremos criar uma lista separada de Heróis que seu irmão
+gosta. Esse irmão gosta dos meus hérois que você até agora, portanto
+podemos criar sua lista copiando a nossa:
+
+```
+meus_herois = ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+herois_do_meu_imrao = meus_herois[:]
+print(f'Meus Herois favoritos são: {meus_herois}')
+print(f'Os Heoris do meu irmão: {herois_do_meu_imrao}')
+```
+```
+Meus Herois favoritos são: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+Os Heoris do meu irmão: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro', 'Gambit']
+```
 fontes
 
 * curso em video
 * curso intesivo de python uma introdução...
+* Introdução à programação com Python algoritmos e lógica de programação para iniciantes (Nilo Ney Coutinho Menezes) (z-lib.org)
