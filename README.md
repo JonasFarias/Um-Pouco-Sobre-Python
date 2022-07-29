@@ -218,43 +218,9 @@ INPUT
 
 
 
-========================================================================================================================================================================================
-
-
-A função print()
 
 
 
-Valores booleanos
-Enquanto os tipos de dados inteiro, de ponto flutuante e string têm um
-número ilimitado de valores possíveis, o tipo de dado booleano (Boolean) tem
-apenas dois valores: True e False.
-
-
-
-Operadores booleanos
-Os três operadores booleanos (and, or e not) são usados para comparar valores
-booleanos. Assim como os operadores de comparação, eles avaliam essas
-expressões reduzindo-as a um valor booleano. Vamos explorar esses
-operadores em detalhes, começando pelo operador and.
-
-Operadores booleanos binários   
-
-
-
-
-O If serve para verificar uma condição e o elif serve para verificar outra condição caso a condição do If seja falsa. No código não há muita diferença, o elif vai garantir que aquela condição seja verificada caso o If seja falso, diferente dos dois If que são 'fluxos' independentes.
-
-
-
-
-
-if = se
-elif = se não
-else = não
-
-
-PRIMEIROS COMANDDOS
 
 
 
