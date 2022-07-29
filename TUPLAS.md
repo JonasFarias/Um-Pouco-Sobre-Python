@@ -2,9 +2,12 @@
 
 Variáveis compostas **(TUPLAS)**
 
-Tuplas tem uma diferença das listas em Python,  são imutáveis. 
+Tuplas tem uma diferença das listas em Python, `Tuplas` são imutáveis. 
 Tuplas são ideais para representar listas de valores constantes e também para realizar opções de empacotamento e desempacotamento de valores.
 Primeiramente, vejamos como criar uma tupla.
+
+Uma tupla se parece exatamente com uma lista, exceto por usar parênteses
+no lugar de colchetes.
 
 ```
 tupla = (“a”, “b”, “c”)
@@ -32,13 +35,13 @@ elas podem ser utilizadas com o for
 ‘’’MANEIRA MAIS SIMPLES DE MOSTRAR OS ITENS DA TUPLA’’’
 
 for comida in lanche:
-	print(‘fEu vou comer {comida} ‘)
+	print(f‘Eu vou comer {comida} ‘)
 
 
 ‘’’ MANEIRA USANDO O RANGE, PARA ENUMERAR OS ITENS DA TUPLA’’’
 
 for contador in range(0, len(lanche)):
-	print(‘fEu vou comer {lanche[cont]} na posição {contador}’)
+	print(f‘Eu vou comer {lanche[cont]} na posição {contador}’)
 
 
 ‘’’MANEIRA USANDO O ENUMARATE’’’
@@ -51,7 +54,7 @@ print(‘Comi pra caramba!’)
 ```
 Python permite criarmos tuplas separados por virgula, independente de usarmos parênteses:
 ```
-tupla =100, 200, 300
+tupla = 100, 200, 300
 tupla
 (100, 200, 300)
 ```
@@ -107,20 +110,16 @@ tupla
 (‘a’, [‘b’, ‘c’, ‘d’, ‘e’])
 ```
 
-# LISTAS
+Se comparada com listas, as tuplas são estruturas de dados simples. Useas
+quando quiser armazenar um conjunto de valores que não deva ser
+alterado durante a vida de um programa.
+
+E por fim encerramos o assunto Tuplas. Good Lock
 
 
-
-Listas permitem o armazenamento de vários valores,acessados por um índice. 
-Uma lista pode conter zero ou mais elementos de um mesmo tipo ou de tipos diversos, podendo inclusive conter outras listas. 
-
-A palavra casa tem 4 letras, é comum imaginarmos que a contagem seria do 1 ao 4, porém os índices em Python começam a contagem no 0 Ex:
-```
-
-C  A  S  A
-[0 ,1 , 2, 3]
-
-```
-Listas são bem flexíveis, podem crescer e diminuir com bastante facilidade! 
+Fonte
+* Curso em Video
+* Introdução à programação com Python algoritmos e lógica de programação para iniciantes 
+* Automatize Tarefas Maçantes com Python 
 
 
