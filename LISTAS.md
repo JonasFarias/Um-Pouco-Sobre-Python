@@ -416,8 +416,7 @@ Os Heoris do meu irmão: ['Homem Aranha', 'Wolverine', 'Fera', 'Homem de ferro',
 ```
 
 
-
-
+E encerramos o assunto de lista. Good Lock
 
 
 
