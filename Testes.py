@@ -1,4 +1,6 @@
 
 
-cervejas = ['skol', 'bhrama', 'imperio', 'heineken', 'itaipava']
-print(cervejas[-3:])
+teste = ['coisa', 'teste', 'macarrão', 'pão', 'pasta']
+
+if 'pasta' in teste:
+    print('que pasta')
