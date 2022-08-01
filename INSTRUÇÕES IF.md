@@ -19,13 +19,14 @@ FALSO(False), o Codigo depois da instrução if, será ignorado.
 Testes condicionais compara o valor atual de uma variável
 com um valor específico de interesse. O teste condicional mais simples
 verifica se o valor de uma variável é igual ao valor de interesse:
-`
+
+```
 # Aqui definimos o valor da variavel doce sendo 'brigadeiro'
 doce = 'brigadeiro'
 # Aqui perguntamos se o valor de doce é igual a 'brigadeiro
 doce == 'brigadeiro'
 True
-`
+```
 
 o sinal de `=' na linguaem python significa atribuição, então 
 sempre que vermos um sinal de "=" no pyhton estamos atribuindo um valor
