@@ -1,7 +1,5 @@
+filmes = {}
 
-lista = ['jonas']
-
-if lista:
-    print('OK')
-else:
-    print('not ok')
+filmes['nome'] = 'filme'
+filmes['idade'] = 29
+print(filmes['idade'])
