@@ -29,4 +29,4 @@ carro = {'cor':'preto'}
 # a saida vai ser preto
 
 ```
-### Acessando valoresemumdicionário
+### Acessando valores em um dicionário
