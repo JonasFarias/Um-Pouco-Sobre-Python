@@ -30,3 +30,57 @@ carro = {'cor':'preto'}
 
 ```
 ### Acessando valores em um dicionário
+
+Para obter o valor associado a uma chave, especifique o nome do
+dicionário e coloque a chave entre colchetes, como vemos a seguir:
+
+```
+carro = {'cor': 'preto'}
+print(alien_0['color']) 
+```
+Essa instrução devolve o valor associado à chave
+'cor' do dicionário carro: preto 
+
+Podemos ter um número ilimitado de pares chave-valor em um dicionário.
+O dicionário carro original com dois pares chave-valor: 
+
+`
+carro = {'cor': 'preto', 'portas': 4}
+`
+Agora podemos acessar a cor e a quantidade de portas.
+Se um comprador quiser escolher o carro pela cor ou pela quantidade de portas, podemos consultar 
+os valores.
+
+### Adicionando novos valores
+
+Dicionários são estruturas dinâmicas, e você pode adicionar novos valores
+a um dicionário a qualquer momento. 
+Por exemplo:
+```
+carro['motor'] = 'v8'
+carro['estilo'] = 'esportivo'
+
+```
+
+Python não se importa com a ordem em que armazenamos
+cada par chave-valor; ele só se importa com a conexão entre cada chave
+e seu valor.
+
+### Começando um dicionário vazio
+
+Às vezes, precisaremoscomeçar com um dicionário vazio e então acrescentar novos valores a ele. 
+Para começar a preencher um dicionário vazio.
+`
+jogos = {}
+`
+Por exemplo, eis o modo de criar o dicionário jogos usando esta
+abordagem: 
+
+```
+
+jogos = {}
+jogos['tiro'] = 'country-strike'
+jogos['aventura'] = 'dino crises'
+
+
+```
