@@ -7,12 +7,13 @@ def calculo_stockout (dicionario_vendas):
     numerador = 0
     denominador = 0
     for venda in dicionario_vendas:
-        vendas, status, motivo = dicionario_vendas[venda]
+        valor, status, motivo = dicionario_vendas[venda]
         if status == 'Concluído':
-            numerador += vendas
+            denominador += valor
         elif status == 'Cancelado' and 'Estoque em Falta':
-            numerador += vendas
-            denominador += vendas
+            denominador += valor
+            numerador += valor
+
     return numerador / denominador
 
 print(calculo_stockout(vendas))
