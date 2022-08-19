@@ -1,6 +1,6 @@
 def dobra_valores(lst):
     posicao = 0
-    while posicao <len(lst):
+    while posicao < len(lst):
         lst[posicao] *= 2
         posicao +=1
 
