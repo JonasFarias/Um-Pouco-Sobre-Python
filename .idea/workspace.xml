@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Um-Pouco-Sobre-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Um-Pouco-Sobre-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios/hashtag - Exercicio 05 - Analise de Indicadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/hashtag - Exercicio 05 - Analise de Indicadores.py" afterDir="false" />
     </list>
@@ -38,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Documentos/GitHub/Um-Pouco-Sobre-Python",
+    "last_opened_file_path": "D:/Documentos/GitHub/Um-Pouco-Sobre-Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {

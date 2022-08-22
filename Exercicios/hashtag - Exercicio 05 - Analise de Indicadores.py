@@ -10,10 +10,10 @@ def calculo_stockout (dicionario_vendas):
         valor, status, motivo = dicionario_vendas[venda]
         if status == 'Concluído':
             denominador += valor
-        elif status == 'Cancelado' and 'Estoque em Falta':
+        elif status == 'Cancelado' and motivo == 'Estoque em Falta':
             denominador += valor
             numerador += valor
 
     return numerador / denominador
 
-print(calculo_stockout(vendas))
+print(f'{calculo_stockout(vendas):.2%}')
