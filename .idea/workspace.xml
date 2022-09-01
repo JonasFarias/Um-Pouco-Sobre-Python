@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Exemplos/classes pokemon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORIENTAÇÃO_A_OBJETOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CLASSES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLASSES.md" beforeDir="false" afterPath="$PROJECT_DIR$/CLASSES.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.hashtag - Exercicio 05 - Analise de Indicadores">
+  <component name="RunManager">
     <configuration name="Exemplo av - salario hora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Um-Pouco-Sobre-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
