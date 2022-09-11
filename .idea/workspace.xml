@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/FUNÇÕES.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exemplos/Curso em Video - Exemplo 01 - Dobra Valores com Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplos/Curso em Video - Exemplo 01 - Dobra Valores com Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista de usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplos/lista de usuarios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relogio digital.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplos/relogio digital.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplos/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Documentos/GitHub/Um-Pouco-Sobre-Python",
+    "last_opened_file_path": "D:/Documentos/GitHub/Curso_em_video",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
