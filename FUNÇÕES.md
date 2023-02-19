@@ -1,3 +1,19 @@
+Pademos definir uma função usamos a atribuição `def`
+
+
+Exemplo criaremos uma função que some dois numeros e exiba na tela
+
+```
+#Defimos a função e passamos que ela tem de receber dois parametros
+def soma(a, b)
+#Após receber esses parametros somamos eles e exibimos na tela.
+    print(a + b)
+    
+```
+Funções são especialmente interessantes para isolar uma tarefa específica em um 
+trecho de programa. Isso permite que a solução de um problema seja reutilizada 
+em outras partes do programa, sem precisar repetir as mesmas linhas
+
 vamos continuar nossos estudos de 
 funções em Python, aprendendo mais 
 sobre Interactive Help em Python, o 
