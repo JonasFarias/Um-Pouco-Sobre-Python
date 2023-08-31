@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Exercicio 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Exercicio 01 - Exibir o nome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Exercicio 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Exercicio 02 - Pago ou Não imposto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Exercicio 03.oy" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Exercicio 03.py" afterDir="false" />
-    </list>
+    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
