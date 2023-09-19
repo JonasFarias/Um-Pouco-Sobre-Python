@@ -1,0 +1,29 @@
+#Escreva um programa que leia a velocidade de um carro.
+# Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado.
+# A multa vai custar R$7,00 por cada Km acima do limite
+
+
+
+
+print('-=-' * 6)
+print('RADAR RODOVIARIO')
+print('-=-' * 6)
+
+
+
+velocidade_carro = int(input('Qual a velocidade atual do carro?: '))
+velocidade_permetida = 80
+multa_por_execesso = velocidade_carro - velocidade_permetida
+multa = multa_por_execesso * 7
+
+if velocidade_carro > 80:
+    print('Você esta multado o valor da multa é {}'.format(multa))
+else:
+    print('VOCÊ ESTA DENTRO DA VELOCIDADE PERMITIDA!! \n Tenha um ótimo dia, dirija com cuidado')
+
+
+
+
+
+
+

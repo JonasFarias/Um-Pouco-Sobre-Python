@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment="." />
+    <list default="true" id="5c78e1c4-96b2-4642-8ada-8f9e63657c86" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Exemplos/teste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,28 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Documentos/GitHub/Curso_em_video&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Jonas/Documents/GitHub/Um-Pouco-Sobre-Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documentos\GitHub\Um-Pouco-Sobre-Python\Exemplos" />
       <recent name="D:\Documentos\GitHub\Um-Pouco-Sobre-Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercicio 03 - Calculadora simples (1)">
+  <component name="RunManager" selected="Python.teste1">
     <configuration name="Curso em Video - Exemplo 01 - Dobra Valores com Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Um-Pouco-Sobre-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hashtag - Exercicio 05 - Analise de Indicadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Um-Pouco-Sobre-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exemplos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/hashtag - Exercicio 05 - Analise de Indicadores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemplos/teste1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Exercicio 03 - Calculadora simples (1)" />
       <item itemvalue="Python.Curso em Video - Exemplo 01 - Dobra Valores com Function" />
+      <item itemvalue="Python.Exercicio 03 - Calculadora simples (1)" />
       <item itemvalue="Python.Exercicio 03 - Calculadora simples" />
       <item itemvalue="Python.classes pokemon" />
-      <item itemvalue="Python.hashtag - Exercicio 05 - Analise de Indicadores" />
+      <item itemvalue="Python.teste1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste1" />
         <item itemvalue="Python.Exercicio 03 - Calculadora simples (1)" />
         <item itemvalue="Python.Exercicio 03 - Calculadora simples" />
         <item itemvalue="Python.Curso em Video - Exemplo 01 - Dobra Valores com Function" />
         <item itemvalue="Python.classes pokemon" />
-        <item itemvalue="Python.hashtag - Exercicio 05 - Analise de Indicadores" />
       </list>
     </recent_temporary>
   </component>
