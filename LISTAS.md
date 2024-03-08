@@ -1,4 +1,7 @@
 # O QUE É LISTA
+Listas são um tipo de variável que permite o armazenamento de vários valores, 
+acessados por um índice. Uma lista pode conter zero ou mais elementos de um 
+mesmo tipo ou de tipos diversos, podendo inclusive conter outras listas. O tamanho de uma lista é igual à quantidade de elementos que ela contém.
 
 Uma lista é uma coleção de itens.
 Você pode colocar qualquer informação que quiser em uma lista, e os itens de sua lista não precisam
